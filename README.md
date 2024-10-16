@@ -1,1 +1,0 @@
-# C-digo-suporte-para-jogar-o-Jogo-Liar-s-Bar-com-amigos-na-vida-real
