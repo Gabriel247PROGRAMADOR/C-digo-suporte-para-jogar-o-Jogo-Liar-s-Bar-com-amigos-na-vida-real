@@ -1,1 +1,2 @@
-INSTRUÇÕES: Para jogar use 6 cartas de PAUS, 6 de ESPADAS, 6 de CORAÇÃO e 2 cartas de OURO. Então em vez das rodadas serem de A, REIS OU RAINHA, elas serão de PAUS, ESPADAS ou CORAÇÃO e as cartas de OURO serão os CURINGAS.
+* INSTRUÇÕES: *
+Para jogar use 6 cartas de PAUS, 6 de ESPADAS, 6 de CORAÇÃO e 2 cartas de OURO. Então em vez das rodadas serem de A, REIS OU RAINHA, elas serão de PAUS, ESPADAS ou CORAÇÃO e as cartas de OURO serão os CURINGAS.
